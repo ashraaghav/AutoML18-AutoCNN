@@ -20,7 +20,7 @@ In order to keep things comparable to the baseline, no skip connections were use
 
 #### Results
 
-| Dataset | Keras Simple CNN [benchmark](https://github.com/rois-codh/kmnist#benchmarks--results-) | AutoCNN |
+| Dataset | Keras Simple <br> [CNN benchmark](https://github.com/rois-codh/kmnist#benchmarks--results-) | AutoCNN |
 |---|---|---|
 | KMNIST | 94.63% | 96.79% |
 | K49 | 89.36% | 94.86% |
